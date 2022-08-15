@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @puneetkathar1
 - 👀 I’m interested in Web Development and Open Source.
-- 🌱 I’m currently learning MERN Full Stack and DS Algo
-- 💞️ I’m looking to collaborate on with you 
+- 🌱 I’m specialize in MERN Full Stack and DS Algo
 - 📫 Reach me Now!
 
 <!---
