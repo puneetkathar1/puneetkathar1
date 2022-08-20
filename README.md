@@ -38,6 +38,6 @@ I am a Fullstack Web developer. I am currently learning more about DevOps and Cl
 
 ## Github Stats 📈
 
-[![Puneets's github stats](https://github-readme-stats.vercel.app/api?username=puneetkathar1&show_icons=true)](https://github.com/puneetkathar1/github-readme-stats)
+[![Puneets's github stats](https://github-readme-stats.vercel.app/api?username=puneetkathar1&theme=light&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkathar1)](https://github.com/puneetkathar1/github-readme-stats)
