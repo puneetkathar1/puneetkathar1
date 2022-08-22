@@ -10,6 +10,8 @@ Self-driven and motivated Engineering student adept at testing software products
 
 Looking for any IT-related internship with a forward-moving company.
 
+[Resume/CV](https://drive.google.com/file/d/1CTqoj_fAGr6nxOokAt3qxeddY9OSGvd1/view)
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with MERN stack and Next.js Framework.
