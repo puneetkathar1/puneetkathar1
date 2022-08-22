@@ -1,9 +1,14 @@
 ## Hey there, I'm [Puneet!](https://github.com/puneetkathar1/)
 
+![1622825048880](https://user-images.githubusercontent.com/73285338/185898988-b93a2dbc-0088-49dd-811d-60c955ed6bc2.jpg)
 
 ### Glad to see you here! 😉; 
 
-I am a Fullstack Web developer. I am currently learning more about DevOps and Cloud. 
+I specialize in Fullstack Web development, currently learning more about DevOps and Cloud. 
+
+Self-driven and motivated Engineering student adept at testing software products, developing and implementing new software platforms, and providing IT support and assistance to freelancing clients. Possessing great analytical skills, problem solving mindset, ability to work in team environments, strong attention to detail and a positive attitude.
+
+Looking for any IT-related internship with a forward-moving company.
 
 ### Talking about Personal Stuffs:
 
@@ -29,6 +34,7 @@ I am a Fullstack Web developer. I am currently learning more about DevOps and Cl
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-30628A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2392E6?style=for-the-badge&logo=docker&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Let's connect 🫂
@@ -39,4 +45,5 @@ I am a Fullstack Web developer. I am currently learning more about DevOps and Cl
 ## Github Stats 📈
 
 ![Puneets's github stats](https://github-readme-stats.vercel.app/api?username=puneetkathar1&theme=light&show_icons=true)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkathar1)
