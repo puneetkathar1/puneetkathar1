@@ -17,8 +17,9 @@ Looking for any IT-related internship with a forward-moving company.
 - 🛠 &nbsp; I’m currently working with MERN stack and Next.js Framework.
 - 🚀 &nbsp; I’m working as a Freelance Developer, already worked with over 50 startups.
 - 👯‍♀️ &nbsp; Would love to collaborate on full stack projects and discuss tech stuff.
-- 👨🏻‍💻 &nbsp; Few of my projects are available on [Portfolio 🔗](https://puneekathar.com)
+- 📝 &nbsp; Few of my projects are available on [Portfolio 🔗](https://puneekathar.com)
 - 📫 &nbsp; How to reach me: info@puneetkathar.com.
+- 👨🏻‍💻 &nbsp; Hire me on [Upwork 🔗](https://www.upwork.com/freelancers/~016250e90e1accbfcb)
 
 <br>
 
